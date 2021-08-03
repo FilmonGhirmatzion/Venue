@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../07-08-DAO_and_Integration_testing_exercise-pair/m02d07-dao-exercises-pair.iml" filepath="$PROJECT_DIR$/../07-08-DAO_and_Integration_testing_exercise-pair/m02d07-dao-exercises-pair.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../filmonghirmatzion-java-blue/module-2/07_Database_Connectivity_DAO/lecture-final/m02d07-dao-lecture-final.iml" filepath="$PROJECT_DIR$/../../filmonghirmatzion-java-blue/module-2/07_Database_Connectivity_DAO/lecture-final/m02d07-dao-lecture-final.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../filmonghirmatzion-java-blue/module-2/11_HTTP_Web_Services_GET/exercise-student/m02d11-http-web-services-GET-exercise.iml" filepath="$PROJECT_DIR$/../../filmonghirmatzion-java-blue/module-2/11_HTTP_Web_Services_GET/exercise-student/m02d11-http-web-services-GET-exercise.iml" />
+    </modules>
+  </component>
+</project>
